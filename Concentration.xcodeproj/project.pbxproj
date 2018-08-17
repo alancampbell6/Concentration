@@ -14,6 +14,8 @@
 		942E635F21187F22001F6F4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 942E635D21187F22001F6F4E /* LaunchScreen.storyboard */; };
 		942E636A21187F22001F6F4E /* ConcentrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942E636921187F22001F6F4E /* ConcentrationTests.swift */; };
 		942E637521187F22001F6F4E /* ConcentrationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942E637421187F22001F6F4E /* ConcentrationUITests.swift */; };
+		942E63832118DDF0001F6F4E /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942E63822118DDF0001F6F4E /* Concentration.swift */; };
+		942E63852118E0BB001F6F4E /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942E63842118E0BB001F6F4E /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		942E637021187F22001F6F4E /* ConcentrationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConcentrationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		942E637421187F22001F6F4E /* ConcentrationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationUITests.swift; sourceTree = "<group>"; };
 		942E637621187F22001F6F4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		942E63822118DDF0001F6F4E /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		942E63842118E0BB001F6F4E /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				942E635421187F21001F6F4E /* AppDelegate.swift */,
 				942E635621187F21001F6F4E /* ViewController.swift */,
 				942E635821187F21001F6F4E /* Main.storyboard */,
+				942E63822118DDF0001F6F4E /* Concentration.swift */,
+				942E63842118E0BB001F6F4E /* Card.swift */,
 				942E635B21187F22001F6F4E /* Assets.xcassets */,
 				942E635D21187F22001F6F4E /* LaunchScreen.storyboard */,
 				942E636021187F22001F6F4E /* Info.plist */,
@@ -258,6 +264,8 @@
 			files = (
 				942E635721187F21001F6F4E /* ViewController.swift in Sources */,
 				942E635521187F21001F6F4E /* AppDelegate.swift in Sources */,
+				942E63832118DDF0001F6F4E /* Concentration.swift in Sources */,
+				942E63852118E0BB001F6F4E /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
